@@ -1,0 +1,10 @@
+
+dubbo:
+  application:
+    name: boot-dubbo-user-consumer
+  registry:
+    address: zookeeper://101.37.78.184:2181
+
+server:
+  port: 80
+
